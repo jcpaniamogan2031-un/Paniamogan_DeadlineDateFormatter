@@ -11,5 +11,7 @@ month_two = month-1
 print(" ")
 print("Formatted Output: ")
 print("Event title: ", event_title.upper())
+print("Date: ", months[month-1], day, "," ,year)
+print("Month: ", month)
 print("Year: ", year)
 print("Day: ", day)
